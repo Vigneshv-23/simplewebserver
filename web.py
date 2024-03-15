@@ -6,6 +6,7 @@ content = """
         <title>Top software companies</title>
     </head>
     <body>
+    <h1>Top Software Companies</h1>
       <center> <table border="2" cellspacing="2" cellpadding="7"> </center>
             <tr>
                 <th>Sno.</th>
