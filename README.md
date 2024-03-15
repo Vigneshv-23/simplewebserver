@@ -91,7 +91,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/Vigneshv-23/simplewebserver/assets/110780412/fc8dd39b-9df3-4c51-a27e-376bf5d8ae3c)
+
 ![image](https://github.com/Vigneshv-23/simplewebserver/assets/110780412/1c922f1f-2512-4ec5-a899-98a7c2022880)
 
 
